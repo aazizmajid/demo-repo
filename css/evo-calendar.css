@@ -413,7 +413,7 @@ tr.calendar-body .calendar-day .day[disabled] {
 .event-container > .event-info > p.event-title > span {
     position: absolute;
     top: 50%;
-    right: 0;
+    left: 0;/*changesd by AAziz on 06-08-2024: To move the date range indicators to the left of the event for RTL. Original value was (right: 0;)*/
     font-size: 12px;
     font-weight: normal;
     color: #755eb5;
