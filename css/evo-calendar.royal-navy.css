@@ -14,7 +14,7 @@
 /* Evo Calendar - Theme: Royal Navy */
 .royal-navy .calendar-sidebar {
     /*background-color: #216583;*/
-    background-color: #0005847;
+    background-color: #005847;
     -webkit-box-shadow: 5px 0 18px -3px #216583;
     box-shadow: 5px 0 18px -3px #216583;
 }
@@ -114,7 +114,7 @@
     padding-top: 50px;
     padding-bottom: 40px;
     /*background-color: #216583;*/
-     background-color: #0005847;
+     background-color: #005847;
     color: #fff;
 }
 .royal-navy .calendar-events::-webkit-scrollbar-thumb {
