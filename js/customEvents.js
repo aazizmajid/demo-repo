@@ -23,7 +23,7 @@ var iardaCalendarEvents = [
         description: "هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم", // Event description (optional)
         type: "event",
         color: "#63d867" // Event custom color (optional)
-      }
+      },
 	  {
         id: '06092024-1', // Event's ID (required)
         name: "هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم", // Event name (required)
@@ -55,7 +55,7 @@ var iardaCalendarEvents = [
         type: "birthday", // Event type (required)
         everyYear: false, // Same event every year (optional)
 		color: "#63d867" // Event custom color (optional)
-      }
+      },
 	   {
         id: '05102024-1', // Event's ID (required)
         name: "هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم", // Event name (required)
